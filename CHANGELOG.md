@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.18.0
+
+### Minor Changes
+
+-   cc9fc9b: update chat box ui
+-   5c3e7a3: scroll to task timeline
+
+### Patch Changes
+
+-   dcf59bc: Fix Title for windows in cline
+
 ## [3.17.8]
 
 -   Fix bug where terminal would get stuck and output "capture failure"
